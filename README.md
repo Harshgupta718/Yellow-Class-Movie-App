@@ -1,1 +1,1 @@
-This app is built as an assignment for Yellow Class. Hope u like it.
+This app is built as an assignment. Hope u like it.
